@@ -1,0 +1,290 @@
+.container{
+
+    position: relative;
+    margin: 0,auto;
+}
+.First-section{
+    position: absolute;
+    width: 1920px;
+    height: 850px;
+    background-color:  rgb(211, 163, 184);
+    display: flex;
+    width: 100%;
+    
+}
+.First-section-left{
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 720px;
+    height: 450px;
+    background-color:   rgb(211, 163, 184);
+}
+.First-section-left h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.First-section-left p{
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.bt-text-one{
+    width: 177px;
+    height: 56px;
+    border-radius: 5px;
+    border: 0px brown;
+    background-color: brown;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.First-section-right{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 780px;
+    width: 635px;
+    background-color:  rgb(211, 163, 184);
+}
+/*End of First section*/
+.second-section{
+ width: 1440px;
+ height: 850px;
+ position: absolute;
+ background-color: rgba(247, 218, 247, 0.899); 
+ margin-top: 850px;
+ margin-left: 340px;
+}  
+.second-section-first-part{
+    margin-top: 100px;
+    margin-left: 490px;
+    background-color:rgba(247, 218, 247, 0.899);
+    width: 590px;
+    height: 130px;
+}
+.second-section-first-part h2{
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.second-section-first-part p{
+  text-align: center;
+  font-family: Lato;
+  font-size:20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.second-section-second-part{
+     display: flex;
+}
+.second-box-one{
+    width: 455px;
+    height: 500px;
+    background-color: rgb(243, 190, 236);
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 50% 50% 0px 0px;
+    display: flex;
+}
+.second-box-two{
+    width: 455px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: rgb(206, 245, 184);
+    border-radius: 50% 50% 0px 0px;
+    padding-left: 10px;
+}
+.second-box-three{
+    width: 455px;
+    height: 500px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: rgba(241, 229, 150, 0.768);
+    border-radius: 50% 50% 0px 0px;
+}
+
+.second-section-third-part{
+    background-color: rgba(247, 218, 247, 0.899); 
+    width: 1440px;
+    height: 30px;
+    display: flex;
+}
+.second-box-one-title{
+    width: 455px;
+    height: 30px;
+    background-color:  rgba(247, 218, 247, 0.899); 
+    padding-left: 10px;
+    text-align: center;
+    color: black;
+    font-size: 25px; 
+    text-decoration: underline;
+}
+.second-box-two-title{
+    width: 455px;
+    height: 30px;
+    margin-left: 20px;
+    background-color: rgba(247, 218, 247, 0.899); 
+    padding-left: 10px;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+}
+.second-box-three-title{
+    width: 455px;
+    height: 30px;
+    margin-left: 20px;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+    background-color: rgba(247, 218, 247, 0.899); 
+}
+/*End of Second section*/
+.third-section{
+    width: 100%;
+    height: 620px;
+    margin-top: 1700px;
+    background-color:rgb(246, 236, 240);
+    position: absolute;
+    display: flex;
+}
+.third-section-left-part{
+width: 690px;
+height: 270px;
+background-color: rgb(246, 236, 240);
+margin-left: 380px;
+margin-top: 190px;
+text-align: center;
+}
+.third-section-left-part h2{
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-align: center;
+}
+.third-section-left-part span{
+    color: red;
+}
+.third-section-left-part p{
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.btn-third-section{
+    width: 160px;
+    height: 65px;
+    border: 0px solid red;
+    border-radius: 15px;
+    background-color: red;
+    font-size: 25px;
+    line-height: normal;
+    color: #FFF;
+    font-weight: 40px;
+}
+.third-section-right-part{
+    width: 370px;
+    height: 440px;
+    background-color: rgb(246, 236, 240);
+    margin-left: 150px;
+    margin-top: 100px;
+    padding-left: 20px;
+    }
+/*End of third section*/
+.forth-section{
+    width: 1440px;
+    height: 800px;
+    position: absolute;
+    margin-top: 2400px;
+    margin-left: 340px;
+    background-color: white;
+    position: absolute;
+}
+
+.forth-section-uper-part h2{
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 100px;
+}
+.forth-section-uper-part p{
+    text-align: center;
+    font-family: Lato;
+    font-size: 25px;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 50px;
+}
+.forth-section-lower-part{
+    width: 1440px;
+    height: 600px;
+    background-color:white;
+    display: flex;
+}
+.forth-section-lower-box-one{
+    width: 330px;
+    height: 390px;
+    background-color:white;
+    margin-left: 0 px;
+}
+.forth-section-lower-box-two{
+    width: 330px;
+    height: 390px;
+    margin-left: 33px;
+    background-color:white;
+}
+.forth-section-lower-box-three{
+    width: 330px;
+    height: 390px;
+    margin-left: 35px;
+    background-color:rgb(119, 117, 121);
+}
+.forth-section-lower-box-four{
+    width: 330px;
+    height: 390px;
+    margin-left:33px;
+    background-color:rgb(144, 151, 150);
+}
+/*End of forth section*/
+.fifth-section{
+    width: 1440px;
+    height: 450px;
+    position: absolute;
+    margin-top: 3200px;
+    margin-left: 340px;
+    background-color:yellow;
+    position: absolute;
+    
+}
+.fifth-section-main-img{
+    position: relative;
+    width: 1440px;
+    height: 450px;
+    background-color: orange;
+
+}
+/*End of fifth section*/
+/*End of sixth section*/
+/*End of seventh section*/
