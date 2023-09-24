@@ -61,7 +61,7 @@
  height: 850px;
  position: absolute;
  background-color: rgba(247, 218, 247, 0.899); 
- margin-top: 850px;
+ margin-top: 950px;
  margin-left: 340px;
 }  
 .second-section-first-part{
@@ -158,7 +158,7 @@
 .third-section{
     width: 100%;
     height: 620px;
-    margin-top: 1700px;
+    margin-top: 1900px;
     background-color:rgb(246, 236, 240);
     position: absolute;
     display: flex;
@@ -214,7 +214,7 @@ line-height: 30px;
     width: 1440px;
     height: 800px;
     position: absolute;
-    margin-top: 2400px;
+    margin-top: 2530px;
     margin-left: 340px;
     background-color: white;
     position: absolute;
@@ -272,7 +272,7 @@ line-height: 30px;
     width: 1440px;
     height: 550px;
     position: absolute;
-    margin-top: 3200px;
+    margin-top: 3300px;
     margin-left: 340px;
     position: absolute;
     background-image: url("../images/Rectangle\ 9.png");
@@ -317,5 +317,32 @@ line-height: 30px;
     font-style: normal;
 }
 /*End of fifth section*/
+.sixth-section{
+    width: 100%;
+    height: 550px;
+    background-color: aqua;
+    position: absolute;
+    margin-top: 3850px;
+}
+.sixth-section h2{
+        margin-top: 50px;
+        text-align: center;
+        font-size: 40px;
+}
+.sixth-section-videos{
+    display: flex;
+}
+.first-video{
+   margin-left: 50px;
+}
+.second-video{
+    margin-left: 100px;
+ }
+ .third-video{
+    margin-left: 100px;
+ }
+ .forth-video{
+    margin-left: 100px;
+ }
 /*End of sixth section*/
 /*End of seventh section*/
